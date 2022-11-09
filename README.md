@@ -1,4 +1,4 @@
-# PI03--Analitics-Henry
+# PI03--Analytics--Henry
 
 ## **Contexto**
 La **Organización de Aviación Civil Internacional (OACI)**, organismo de la Organización de las Naciones Unidas,
@@ -75,6 +75,20 @@ Islas Canarias, España, y dejaron 583 muertos”
 "Accidente en Tenerife"
 
 ### Dato curioso 2:
+
+“Así es Graham, el “superhumano mutante” creado por el gobierno de Australia para alertar sobre los accidentes de tránsito
+La creación es un reflejo de cómo debería evolucionar el ser humano para tolerar en su cuerpo los impactos de un choque”
+[“superhumano mutante](https://www.infobae.com/america/mundo/2022/02/16/asi-es-graham-el-superhumano-mutante-creado-por-el-gobierno-de-australia-para-alertar-sobre-los-accidentes-de-transito/ "“superhumano mutante")”
+
+[![](https://www.infobae.com/new-resizer/am6G8HYjKjaJOCDoD6Hzk4ANbDc=/992x606/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MMVKHN4EV5BNJA6PHQNU5EUMQ4.jpeg)](https://www.infobae.com/new-resizer/am6G8HYjKjaJOCDoD6Hzk4ANbDc=/992x606/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/MMVKHN4EV5BNJA6PHQNU5EUMQ4.jpeg)
+
+
+## Conclusión
+En principio, de forma intuitiva hacía una posible idea, se extrajeron los datos, se transformaron, y luego fueron ingestados utilizando el stack tecnológico. A continuación, se realizó un acercamiento a los datos ya trasnformados, mediante una herramienta de visualización, generando relaciones con el objetivo de obtener  una idea simple y clara. Finalmente se contó una historia a partir de los datos.
+
+
+
+
 
 
 
