@@ -19,8 +19,8 @@ cruzar esta información con otras fuentes de su interés. Esto con el objetivo 
 
 + `Python`: EDA + transformaciones. 
 + `SQL`: base de datos.
-+ `Power BI` -preferentemente- o `Streamlit`: dashboard.
-+ `GitHub`: con un README.md donde se elabore el informe.
++ `Power BI`: dashboard.
+
 
 
 ## **Diccionario**
@@ -47,4 +47,44 @@ Fuente original: https://www.kaggle.com/datasets/landfallmotto/airplane-crashes-
 + Time of day: día/noche
 
 Fuente original: https://www.kaggle.com/datasets/deepcontractor/australian-fatal-car-accident-data-19892021?select=Crash_Data.csv
+
+## **Desarrollo**
+
+La pregunta es: cómo relacionamos las muertes por accidentes aéreos y muertes por accidentes de tránsito en este contexto de investigación?
+Vamos a resaltar de forma simple en esta investigación, las causas por las cuales fueron disminuendo las muertes por accidente aéreo los últimos 30 años y las vamos a comparar en el mismo sentido con las muertes por accidente de tránsito en Australia.
+Entonces, ¿cuáles son las causas de disminución de muertes en accidentes aéreos los últmos 30 años?. Se dice el avíon es uno de los transportes más seguros, ¿a qué se debe?:
+
+“el año 2017 hasta 2021, de la Asociación de Transporte Aéreo Internacional (en inglés IATA), un accidente de avión se produce cada, aproximadamente, 2.27 millones de viajes, equivalente a 0.44 por ciento”
+[¿Por qué el avión es el transporte más seguro?](https://listindiario.com/la-republica/2022/09/25/740351/por-que-el-avion-es-el-transporte-mas-seguro "¿Por qué el avión es el transporte más seguro?")
+
+Entre las causas de disminución de accidentes aereos:
+-avance tecnológico.
+-cuidado y calidad de los aviones.
+-sistemas avanzados de protección: radares, control de tráfico, sistemas de alerta.
+-pilotos altamente calificados.
+
+
+### Dato curioso 1:
+“ El 27 de marzo de 1977 ocurrió el peor accidente aéreo de la historia.
+Dos aviones Boeing 747, de Panam Airways y KLM, chocaron en la pista de despegue del aeropuerto Los Rodeos, en Tenerife,
+Islas Canarias, España, y dejaron 583 muertos”
+
+[583 muertos y dos Boeing 747 destruidos](https://www.bbc.com/mundo/noticias-39402012 "583 muertos y dos Boeing 747 destruidos")
+
+[![Accidente en Tenerife](https://ichef.bbci.co.uk/news/800/cpsprodpb/0A02/production/_95326520_gettyimages-3259518.jpg.webp "Accidente en Tenerife")] 
+"Accidente en Tenerife"
+
+### Dato curioso 2:
+
+
+
+
+
+
+
+
+
+
+
+
 
