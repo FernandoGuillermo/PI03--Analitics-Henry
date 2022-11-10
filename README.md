@@ -84,7 +84,7 @@ La creación es un reflejo de cómo debería evolucionar el ser humano para tole
 
 
 ## Conclusión
-En principio, de forma intuitiva hacía una posible idea, se extrajeron los datos, se transformaron, y luego fueron ingestados utilizando el stack tecnológico. A continuación, se realizó un acercamiento a los datos ya trasnformados, mediante una herramienta de visualización, generando relaciones con el objetivo de obtener  una idea simple y clara. Finalmente se contó una historia a partir de los datos.
+En principio, de forma intuitiva en dirección hacía una posible idea, se extrajeron los datos, se transformaron, y luego fueron ingestados utilizando el stack tecnológico. A continuación, se realizó un acercamiento a los datos ya transformados mediante una herramienta de visualización, generando relaciones con el objetivo de obtener  una idea simple y clara. Finalmente se contó una historia a partir de los datos.
 
 
 
